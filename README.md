@@ -13,8 +13,8 @@ Interactive Elements: JavaScript for dynamic content and animations
 ### HTML5: Structure and content.
 ### CSS3: Styling and layout.
 Flexbox and Grid for layout.
-Media queries for responsiveness.
-Custom fonts and icons.
+/n Media queries for responsiveness.
+/n Custom fonts and icons.
 ### JavaScript: Interactivity and dynamic content.
 Form validation.
 Animations and transitions.
